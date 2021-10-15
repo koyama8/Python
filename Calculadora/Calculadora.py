@@ -13,15 +13,17 @@ def Div(x,y):
     return x / y
 
 
-    
 
+    
 print("\n Escolha uma das opcoes:\n")
 print(" 1 - Soma         ")
 print(" 2 - Subtração    ")
 print(" 3 - Multiplicação")
 print(" 4 - Divisão      ")
 
-escolha = input("\n Escolha uma das opcoes:")
+
+    
+escolha = input("\n Digite uma das opcoes:")
 
 num  = int(input("\n Digite o primeiro numero:"))
 num1 = int(input("\n Digite o segundo numero:"))
